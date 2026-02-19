@@ -5,7 +5,7 @@ function BuscarAlumno({ onBuscar }) {
 
   return (
     <div className="card">
-      <h2>Buscar alumno</h2>
+      <h2>Rufo ponme un 10</h2>
 
       <input
         type="number"
